@@ -1,7 +1,7 @@
 # Project : Recipes
 
 ## About
-In this project, I built a basic recipe website using the basic HTML & CSS knowledge acquired during The Odin Project foundations course.
+In this project, I built a basic recipe website using the HTML & CSS knowledge acquired during The Odin Project foundations course.
 
 ## Links
 - [Enjoy the recipes here!](https://fg-floriangirard.github.io/odin-recipes/)
