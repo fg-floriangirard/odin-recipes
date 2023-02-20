@@ -1,0 +1,52 @@
+/**index.html css**/
+
+.body-main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    background-color: beige;
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+}
+
+h1{
+    text-align: center;
+}
+
+#logo img{
+    display: block;
+    border-radius: 25px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 180px;
+    width: 180px;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+
+.content img{
+    flex-direction: row;
+    height: 500px;
+    width: auto;
+    border-radius: 25px;
+}
+
+.contant a{
+    border-radius: 25px;
+}
+
+.content a:hover{
+    opacity: 0.8;
+}
+
+div p{
+    text-align: center;
+}
